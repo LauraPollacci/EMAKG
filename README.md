@@ -1,6 +1,6 @@
 # EMAKG
 
-The **Enhanced Microsoft Academic Knowledge Graph** (EMAKG) provides an enriched version of the Microsoft Academic Knowledge Graph [MAKG](http://www.semantic-web-journal.net/system/files/swj2779.pdf).
+The **Enhanced Microsoft Academic Knowledge Graph** (EMAKG) provides an enriched version of the Microsoft Academic Knowledge Graph ([MAKG])(http://www.semantic-web-journal.net/system/files/swj2779.pdf).
 
 The EMAKG is a large dataset of scientific publications and related entities such as authors, affiliations, venues, and fields of study. Data includes authors' careers and networks of collaborations, linguistics features, together with worldwide yearly authors' stocks and flows.
 
